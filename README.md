@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @destcharm
 - 👀 I’m interested in programmation, ethical hacking
+- I master web developpement (HTML, CSS, Wordpress)
 - 🌱 I’m currently learning Js and others language
 - 💞️ I’m looking to collaborate on any prijects adequate for beguinner or just be friends to work and learn together
 - 📫 How to reach me ...modestekami@gmail.com or whatsapp +22996228427
